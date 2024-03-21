@@ -1,2 +1,4 @@
 # Principal-Component-Analysis-
 This project performs PCA on breast cancer dataset, reducing dimensions to 2 for visualization. It preprocesses data, applies PCA, and visualizes using scatter plot with colors denoting target classes.
+
+This project involves analyzing the breast cancer dataset using Principal Component Analysis (PCA) for dimensionality reduction and visualization. Key libraries used include seaborn, pandas, numpy, and sklearn. After loading and preprocessing the data, PCA is applied to reduce the dimensionality while preserving variance. This allows for easier visualization in a two-dimensional space. The efficiency of PCA is demonstrated through its ability to condense the dataset while retaining essential information. Overall, PCA enhances understanding and facilitates analysis of high-dimensional datasets like breast cancer data.
